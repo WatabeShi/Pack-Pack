@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7269850636856430895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 33367372890919501}
+  m_Layer: 0
+  m_Name: Muzzle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &33367372890919501
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7269850636856430895}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.0308, y: 0.1252, z: -0.273}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1640764029863821128}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1247377577890814115
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.32786262
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.29096133
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.36321747
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.87686306
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12052308
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 216.714
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -45.001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 51adba6ef0e6a6e4285bd354f61aee53, type: 2}
+    - target: {fileID: 919132149155446097, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      propertyPath: m_Name
+      value: Pistol
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 33367372890919501}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4627861749312763702}
+  m_SourcePrefab: {fileID: 100100000, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+--- !u!4 &1640764029863821128 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+  m_PrefabInstance: {fileID: 1247377577890814115}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2129915229012043250 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2fc8cbdf4cc74e744a6f4273f0681820, type: 3}
+  m_PrefabInstance: {fileID: 1247377577890814115}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4627861749312763702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2129915229012043250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9d10825930b1544d998cf6b53c1f0e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 16
+  shotDelay: 0.5
+  shotDistance: 80
+  shotKey: 323
+  isAuto: 0
+  shotSE: {fileID: 8300000, guid: 543afd1f737fadf438689958ce658afa, type: 3}
+  hitEffect: {fileID: 1337198075554910, guid: 25c7aa9ad705fe143a4d71c1c8deb7d4, type: 3}
+  shotEffect: {fileID: 1743301284569550, guid: ad2ab49d0a2a17148bd51c93d977bdbc, type: 3}
+  muzzle: {fileID: 33367372890919501}

@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &590836124428320132
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 677200206772526650, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.275
+      objectReference: {fileID: 0}
+    - target: {fileID: 677200206772526650, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 2242307165297439113, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_Name
+      value: Pump Shot Gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982475000847952177, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 3814378201483603881, guid: 711bc6ca5d508404289a3fc8b0caafb7, type: 3}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7605443235745630067, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9143757505910835249, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a5368a017c5b4844a393c92d78fc18f, type: 2}
+    m_RemovedComponents:
+    - {fileID: 4402301982848336750, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2242307165297439113, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7869037253208743378}
+  m_SourcePrefab: {fileID: 100100000, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+--- !u!4 &96533079949829054 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 677200206772526650, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+  m_PrefabInstance: {fileID: 590836124428320132}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1670083600715435021 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2242307165297439113, guid: 893a16f65c9d9914ab37706a5dd79f15, type: 3}
+  m_PrefabInstance: {fileID: 590836124428320132}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7869037253208743378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1670083600715435021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dcb5254f74c2be4486bb42dd6ff8f39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 6
+  shotDelay: 1
+  shotDistance: 30
+  shotKey: 323
+  isAuto: 0
+  shotSE: {fileID: 8300000, guid: 543afd1f737fadf438689958ce658afa, type: 3}
+  hitEffect: {fileID: 1337198075554910, guid: 25c7aa9ad705fe143a4d71c1c8deb7d4, type: 3}
+  shotEffect: {fileID: 1743301284569550, guid: ad2ab49d0a2a17148bd51c93d977bdbc, type: 3}
+  muzzle: {fileID: 96533079949829054}
+  ammoToFirst: 5
+  pumpactionSE: {fileID: 8300000, guid: 8afddb5f681593e4b931077e1d8c63f7, type: 3}
